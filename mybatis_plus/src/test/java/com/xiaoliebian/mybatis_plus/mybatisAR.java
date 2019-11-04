@@ -32,7 +32,9 @@ public class mybatisAR {
 
     @Test
     public void ste(){
-
+        int i=0;
+        i+=10;
+        System.out.println(i);
     }
 
 
