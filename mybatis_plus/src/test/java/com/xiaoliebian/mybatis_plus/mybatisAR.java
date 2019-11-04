@@ -30,7 +30,10 @@ public class mybatisAR {
 
 
 
+    @Test
+    public void ste(){
 
+    }
 
 
 
